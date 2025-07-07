@@ -166,7 +166,7 @@ var Clock = (function() {
         }, 
         press = false, 
         quiver = true, 
-        texts = ["Ohh Hi Guyss", "I'm Rzzz", "Welcome to the Sky", "Enjoy the Silence", "And", "Let the Stars Speak"],
+        texts = ["Ohh Hi Guyss", "I'm Rzzz", "The Sky", "The Silence", "And", "Let Stars Speak"],
         
         text = texts[0],
         textNum = 0,
